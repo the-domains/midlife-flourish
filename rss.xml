@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MidLife Flourish]]></title>
+        <description><![CDATA[MidLife Flourish]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 14:43:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Holistic Health &Wellness    Coach]]></title>
+            <description><![CDATA[<h1>Holistic Health &Wellness    Coach</h1>]]></description>
+            <link>undefinedholistic-health-andwellness-coach/index.html</link>
+            <guid isPermaLink="false">f7045307-aaa3-48da-81cd-ab8613cf9102</guid>
+            <pubDate>Mon, 11 Apr 2016 14:43:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
